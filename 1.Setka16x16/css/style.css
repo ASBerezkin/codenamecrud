@@ -1,0 +1,24 @@
+.container {
+	width: 600px;
+	height: 600px;
+	background-color: green;
+	margin: 30px auto;
+	padding: 0;
+}
+.coub {
+	position: relative;
+	width: 6.25%;
+	height: 6.25%;
+	background-color: #000;
+	float: left;
+}
+.coub:hover {
+	background-color: #34D800;
+}
+.pic {
+	background-color: blue;
+	position: relative;
+	width: 6.25%;
+	height: 6.25%;
+	float: left;
+}
